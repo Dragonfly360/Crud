@@ -1,4 +1,4 @@
-//comentario
+//comentarios para github
 #include <iostream>
 using namespace std;
 const char *nombre_archivo = "archivo.dat";
